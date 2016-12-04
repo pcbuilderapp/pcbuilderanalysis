@@ -80,6 +80,6 @@ public class ComponentController {
     // enkel voor test
     static Map<Integer,Component> store = new HashMap<Integer,Component>();
     static void populateTestData() {
-        
+
     }
 }
